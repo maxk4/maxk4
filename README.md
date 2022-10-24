@@ -1,4 +1,7 @@
 ### Hi there 👋
+---
+<!--
+**maxk4/maxk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m interested in full stack development, computer engineering, and cyber security
@@ -9,6 +12,7 @@
 - 😄 I'm looking for interships starting in 2023
 - ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes skiing
 -->
+<p>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -28,7 +32,7 @@
     <img src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-    
+  </p> 
     
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
