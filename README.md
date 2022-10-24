@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<!--
+
 **maxk4/maxk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -11,9 +11,8 @@
 - 📫 How to reach me at: kaczmarekmax4@gmail.com or view my LinkedIN
 - 😄 I'm looking for interships starting in 2023
 - ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes skiing
--->
-<p>
 
+<p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white">
