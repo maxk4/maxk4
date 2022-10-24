@@ -1,9 +1,6 @@
 ### Hi there 👋
 ---
 
-**maxk4/maxk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m interested in full stack development, computer engineering, and cyber security
 - 🌱 I’m currently learning about distributed systems
 - 👯 I’m looking to collaborate on any project that develops my skills    
