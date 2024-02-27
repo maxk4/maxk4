@@ -25,5 +25,5 @@
 - 👯 I’m looking to collaborate on any project that develops my skills    
 - 💬 Ask me about crypto mining
 - 📫 How to reach me at: kaczmarekmax4@gmail.com or view my LinkedIN
-- 😄 I'm looking for interships starting in 2023
+- 😄 I'm looking for interships starting in 2024
 - ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes skiing
